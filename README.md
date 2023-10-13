@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Rabia Nur İSTANBULLU </h1>
 <div align="center"> <img src="https://media.licdn.com/dms/image/D4D16AQG8_gWc7H0Szw/profile-displaybackgroundimage-shrink_350_1400/0/1697212979387?e=1702512000&v=beta&t=0sprYdw3PWk2q-pYx7U1agwjtWZu2JGVr3UGc_B62cE"/> </div>
-<h3 align="center">A React Frontend Developer From Turkey.</h3>
+<h3 align="center">A React Frontend Developer From Turkey / Jordan.</h3>
 <img align="right" alt="Coding" width="400" src="./bg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabianuristanbullu&label=Profile%20views&color=0e75b6&style=flat" alt="rabianuristanbullu" /> </p>
